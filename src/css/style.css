@@ -115,7 +115,7 @@ html::selection {
     font-weight: 400;
     font-size: 60px;
     text-transform: uppercase;
-    color: var(--light-color, #F5F5F7);
+    color: red;
     line-height: normal;
 
     @media screen and (max-width: 768px) {
